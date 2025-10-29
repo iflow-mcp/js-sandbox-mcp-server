@@ -1,5 +1,5 @@
 {
-  "name": "js-sandbox-mcp-server",
+  "name": "@iflow-mcp/js-sandbox-mcp-server",
   "version": "0.2.0",
   "description": "A Model Context Protocol server",
   "type": "module",
